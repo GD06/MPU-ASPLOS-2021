@@ -24,7 +24,5 @@ benchmark/blur/blur
 benchmark/conv/conv 
 benchmark/histogram/histogram 
 benchmark/nw/nw 
-benchmark/bfs/bfs 
-benchmark/pagerank/pagerank  
 
 .coverage 
